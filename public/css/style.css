@@ -8,7 +8,7 @@ body, html {
 	height: 100% !important;
 }
 h2, h3, h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Sk-Modernist', sans-serif;
 }
 h2 {
 	text-transform: uppercase;
@@ -75,14 +75,14 @@ hr {
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu a.navbar-brand {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Sk-Modernist', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
 	color: #333;
 	text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Sk-Modernist', sans-serif;
 	text-transform: uppercase;
 	color: #555;
 	font-size: 15px;
@@ -197,7 +197,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.2);
 }
 .intro h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Sk-Modernist', sans-serif;
 	color: #fff;
 	font-size: 82px;
 	font-weight: 700;
@@ -225,7 +225,7 @@ header .intro-text {
 /* Features Section */
 #features {
 	padding: 100px 0;
-	background: #f6f6f6;
+	background: #E6E7E8;
 }
 #features i.fa {
 	font-size: 38px;
@@ -240,7 +240,8 @@ header .intro-text {
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 .products {
-	padding-bottom: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 /* About Section */
 #about {
@@ -419,6 +420,7 @@ header .intro-text {
 /* Team Section */
 #team {
 	padding: 100px 0;
+	background-color: #E6E7E8;
 }
 #team h4 {
 	margin: 5px 0;
@@ -557,7 +559,7 @@ color: #777;
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-	color: #608dfd;
+	color: #224D43;
 	background: #fff;
 }
 /* Footer Section*/

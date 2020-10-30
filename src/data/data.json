@@ -91,52 +91,52 @@
         }
     ],
     "Contact": {
-        "address": "347 Clayton Road, <br?=Vic, Australia 3168 ",
+        "address": "347 Clayton Road, Vic, Australia 3168 ",
         "phone": "+1 123 456 1234",
         "email": "info@company.com",
         "facebook": "fb.com",
-        "twitter": "twitter.com",
+        "instagram": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-mug-hot",
             "title": "Kitchen supplies",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "products that are repackaged from Alibaba"
         },
         {
             "icon": "fa fa-smile-beam",
             "title": "Cosmetics",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Random korean stuff"
         },
         {
             "icon": "fa fa-bath",
             "title": "Bathroom Supplies",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "From AI and"
         },
         {
             "icon": "fa fa-pencil-ruler",
             "title": "Stationery",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "colourful pens, pencils, notebooks and other stuff"
         },
         {
             "icon": "fa fa-pump-soap",
             "title": "Cleaning Supplies",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "To clean bentley's shit"
         },
         {
             "icon": "fa fa-bath",
             "title": "bath",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Don't know what other products to put here"
         },
         {
             "icon": "fa fa-pencil-ruler",
             "title": "Stationery",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Don't know what other products to put here"
         },
         {
             "icon": "fa fa-pump-soap",
             "title": "Cleaning Supplies",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Don't know what other products to put here"
         }
     ]
 }
