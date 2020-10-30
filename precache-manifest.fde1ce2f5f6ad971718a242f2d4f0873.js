@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae06af560113c5cd3c775f754fa00e94",
+    "revision": "f6c1bf7d1edbcd4abe67fc91caa93d21",
     "url": "/minimaru-landing/index.html"
   },
   {
-    "revision": "fa71db74c90472644e84",
+    "revision": "9040fccfc8e5d23cc286",
     "url": "/minimaru-landing/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa71db74c90472644e84",
-    "url": "/minimaru-landing/static/js/main.f4235c68.chunk.js"
+    "revision": "9040fccfc8e5d23cc286",
+    "url": "/minimaru-landing/static/js/main.0dd37514.chunk.js"
   },
   {
     "revision": "7da54e7d2eb77b1a579c",

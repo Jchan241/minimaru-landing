@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/minimaru-landing/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/minimaru-landing/static/js/main.f4235c68.chunk.js",
-    "main.js.map": "/minimaru-landing/static/js/main.f4235c68.chunk.js.map",
+    "main.js": "/minimaru-landing/static/js/main.0dd37514.chunk.js",
+    "main.js.map": "/minimaru-landing/static/js/main.0dd37514.chunk.js.map",
     "runtime-main.js": "/minimaru-landing/static/js/runtime-main.29e30957.js",
     "runtime-main.js.map": "/minimaru-landing/static/js/runtime-main.29e30957.js.map",
     "static/js/2.8ec8fc10.chunk.js": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js",
     "static/js/2.8ec8fc10.chunk.js.map": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js.map",
     "index.html": "/minimaru-landing/index.html",
-    "precache-manifest.833afb5173404f0e7c84181542fe655d.js": "/minimaru-landing/precache-manifest.833afb5173404f0e7c84181542fe655d.js",
+    "precache-manifest.fde1ce2f5f6ad971718a242f2d4f0873.js": "/minimaru-landing/precache-manifest.fde1ce2f5f6ad971718a242f2d4f0873.js",
     "service-worker.js": "/minimaru-landing/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/minimaru-landing/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.8ec8fc10.chunk.js.LICENSE.txt": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.29e30957.js",
     "static/js/2.8ec8fc10.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f4235c68.chunk.js"
+    "static/js/main.0dd37514.chunk.js"
   ]
 }

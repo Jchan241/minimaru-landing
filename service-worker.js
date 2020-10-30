@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/minimaru-landing/precache-manifest.833afb5173404f0e7c84181542fe655d.js"
+  "/minimaru-landing/precache-manifest.fde1ce2f5f6ad971718a242f2d4f0873.js"
 );
 
 self.addEventListener('message', (event) => {
