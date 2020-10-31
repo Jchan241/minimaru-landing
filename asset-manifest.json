@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/minimaru-landing/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/minimaru-landing/static/js/main.08391235.chunk.js",
-    "main.js.map": "/minimaru-landing/static/js/main.08391235.chunk.js.map",
-    "runtime-main.js": "/minimaru-landing/static/js/runtime-main.29e30957.js",
-    "runtime-main.js.map": "/minimaru-landing/static/js/runtime-main.29e30957.js.map",
-    "static/js/2.8ec8fc10.chunk.js": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js",
-    "static/js/2.8ec8fc10.chunk.js.map": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js.map",
-    "index.html": "/minimaru-landing/index.html",
-    "precache-manifest.f31e03fa4963c21532167ea38a873e9c.js": "/minimaru-landing/precache-manifest.f31e03fa4963c21532167ea38a873e9c.js",
-    "service-worker.js": "/minimaru-landing/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/minimaru-landing/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.8ec8fc10.chunk.js.LICENSE.txt": "/minimaru-landing/static/js/2.8ec8fc10.chunk.js.LICENSE.txt"
+    "main.css": "/minimaruhome.com.au/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/minimaruhome.com.au/static/js/main.472b5f9d.chunk.js",
+    "main.js.map": "/minimaruhome.com.au/static/js/main.472b5f9d.chunk.js.map",
+    "runtime-main.js": "/minimaruhome.com.au/static/js/runtime-main.31d52d41.js",
+    "runtime-main.js.map": "/minimaruhome.com.au/static/js/runtime-main.31d52d41.js.map",
+    "static/js/2.8ec8fc10.chunk.js": "/minimaruhome.com.au/static/js/2.8ec8fc10.chunk.js",
+    "static/js/2.8ec8fc10.chunk.js.map": "/minimaruhome.com.au/static/js/2.8ec8fc10.chunk.js.map",
+    "index.html": "/minimaruhome.com.au/index.html",
+    "precache-manifest.b4e223567a5be94e88222879fb8708d5.js": "/minimaruhome.com.au/precache-manifest.b4e223567a5be94e88222879fb8708d5.js",
+    "service-worker.js": "/minimaruhome.com.au/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/minimaruhome.com.au/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8ec8fc10.chunk.js.LICENSE.txt": "/minimaruhome.com.au/static/js/2.8ec8fc10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29e30957.js",
+    "static/js/runtime-main.31d52d41.js",
     "static/js/2.8ec8fc10.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.08391235.chunk.js"
+    "static/js/main.472b5f9d.chunk.js"
   ]
 }
