@@ -22,7 +22,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://jchan241.github.io/minimaru-landing/",
+  "homepage": "http://minimaruhome.com.au",
   "browserslist": {
     "production": [
       ">0.2%",

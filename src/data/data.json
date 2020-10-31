@@ -1,23 +1,15 @@
 {
     "Header": {
 
-        "title": "minimaru",
-        "paragraph": "Fancy store that's really a $2 shop"
+        "title": "Coming December 2020",
+        "paragraph": ""
 
     },
     "About": {
-        "paragraph": "Started by a jew",
+        "paragraph": "",
         "Why": [
-            "To make money",
-            "minimal goods",
-            "affordable prices",
-            "Incididunt ut labore"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
         ]
     },
     "Services": [{
@@ -93,50 +85,50 @@
     "Contact": {
         "address": "347 Clayton Road, Vic, Australia 3168 ",
         "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "email": "info@minimaruhome.com.au",
         "facebook": "fb.com",
-        "instagram": "twitter.com",
-        "youtube": "youtube.com"
+        "instagram": "https://www.instagram.com/minimaru.home/",
+        "emailLink": "mailto:info@minimaruhome.com.au"
     },
     "Features": [{
             "icon": "fa fa-mug-hot",
             "title": "Kitchen supplies",
-            "text": "products that are repackaged from Alibaba"
+            "text": ""
         },
         {
             "icon": "fa fa-smile-beam",
             "title": "Cosmetics",
-            "text": "Random korean stuff"
+            "text": ""
         },
         {
             "icon": "fa fa-bath",
             "title": "Bathroom Supplies",
-            "text": "From AI and"
+            "text": ""
         },
         {
             "icon": "fa fa-pencil-ruler",
             "title": "Stationery",
-            "text": "colourful pens, pencils, notebooks and other stuff"
+            "text": ""
         },
         {
             "icon": "fa fa-pump-soap",
             "title": "Cleaning Supplies",
-            "text": "To clean bentley's shit"
+            "text": ""
         },
         {
             "icon": "fa fa-bath",
             "title": "bath",
-            "text": "Don't know what other products to put here"
+            "text": ""
         },
         {
             "icon": "fa fa-pencil-ruler",
             "title": "Stationery",
-            "text": "Don't know what other products to put here"
+            "text": ""
         },
         {
             "icon": "fa fa-pump-soap",
             "title": "Cleaning Supplies",
-            "text": "Don't know what other products to put here"
+            "text": ""
         }
     ]
 }
