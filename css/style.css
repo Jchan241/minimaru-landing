@@ -470,7 +470,8 @@ header .intro-text {
 #contact .section-title h2::after {
 	position: absolute;
 	content: "";
-	background: rgba(255,255,255,.2);
+	background: linear-gradient(to right, rgba(255,255,255,.3) 0%, rgba(255,255,255,.2) 100%);
+	/* background: rgba(255,255,255,.2); */
 	height: 4px;
 	width: 60px;
 	bottom: 0;
