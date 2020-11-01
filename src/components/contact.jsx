@@ -57,7 +57,7 @@ export default class Contact extends Component {
                   </div> */}
                   <div id="success"></div>
                   <button type="submit" className="btn btn-custom btn-lg">
-                    Send Message
+                    Submit
                   </button>
                 </form>
                 {/* <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGbWYq7WldMnrNWq_Lk5WJLBXPHwkREYlv4T7UChXbNQVAZw/viewform?embedded=true" width="640" height="538" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> */}
@@ -120,7 +120,7 @@ export default class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 minimaru. Design by{" "}
+              &copy; 2020 MINIMARU. Design by{" "}
               {/* <a href="http://www.myfoodmart.com.au" rel="nofollow"> */}
                 Johnny Chan
               {/* </a> */}

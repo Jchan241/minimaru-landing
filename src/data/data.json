@@ -92,7 +92,7 @@
     },
     "Features": [{
             "icon": "fa fa-mug-hot",
-            "title": "Kitchen supplies",
+            "title": "Kitchen",
             "text": ""
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "icon": "fa fa-bath",
-            "title": "Bathroom Supplies",
+            "title": "Bathroom",
             "text": ""
         },
         {
@@ -112,7 +112,7 @@
         },
         {
             "icon": "fa fa-pump-soap",
-            "title": "Cleaning Supplies",
+            "title": "Cleaning",
             "text": ""
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "icon": "fa fa-pump-soap",
-            "title": "Cleaning Supplies",
+            "title": "Cleaning",
             "text": ""
         }
     ]

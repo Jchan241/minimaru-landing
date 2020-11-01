@@ -18,9 +18,12 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-              MiniMaru
+            <a className="" href="#page-top">
+              <img src="img/logo.png" className="navbarLogo page-scroll" alt=""/>
             </a>{" "}
+            {/* <a className="navbar-brand page-scroll" href="#page-top">
+              MiniMaru
+            </a>{" "} */}
           </div>
 
           <div
@@ -36,6 +39,11 @@ export class Navigation extends Component {
               <li>
                 <a href="#about" className="page-scroll">
                   About us
+                </a>
+              </li>
+              <li>
+                <a href="#team" className="page-scroll">
+                  Find Us
                 </a>
               </li>
               <li>
