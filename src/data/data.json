@@ -85,10 +85,10 @@
     "Contact": {
         "address": "347 Clayton Road, Vic, Australia 3168 ",
         "phone": "+1 123 456 1234",
-        "email": "info@minimaruhome.com.au",
+        "email": "hello@minimaruhome.com.au",
         "facebook": "fb.com",
         "instagram": "https://www.instagram.com/minimaru.home/",
-        "emailLink": "mailto:info@minimaruhome.com.au"
+        "emailLink": "mailto:hello@minimaruhome.com.au"
     },
     "Features": [{
             "icon": "fa fa-mug-hot",
@@ -116,18 +116,18 @@
             "text": ""
         },
         {
-            "icon": "fa fa-bath",
-            "title": "bath",
+            "icon": "fa fa-home",
+            "title": "Home",
             "text": ""
         },
         {
-            "icon": "fa fa-pencil-ruler",
-            "title": "Stationery",
+            "icon": "fa fa-archive",
+            "title": "Organisation",
             "text": ""
         },
         {
-            "icon": "fa fa-pump-soap",
-            "title": "Cleaning",
+            "icon": "fa fa-bed",
+            "title": "Bedroom",
             "text": ""
         }
     ]

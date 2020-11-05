@@ -68,6 +68,7 @@ hr {
 #menu {
 	padding: 15px;
 	transition: all 0.8s;
+	height: 77px;
 }
 #menu.navbar-default {
 	background-color: #fff;

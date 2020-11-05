@@ -19,7 +19,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="" href="#page-top">
-              <img src="img/logo.png" className="navbarLogo page-scroll" alt=""/>
+              <img src="img/logo.png" className="navbarLogo page-scroll" alt="Minimaru logo"/>
             </a>{" "}
             {/* <a className="navbar-brand page-scroll" href="#page-top">
               MiniMaru
